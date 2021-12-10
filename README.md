@@ -36,3 +36,5 @@ images and icons are on the assets folder.
 
 Pods used: Kingfisher ~ for retrieving images and store them 
          : NVActivityIndicatorView ~ for loading indicator when making a service call 
+         
+So when wanting to run the app, please do pod install / pod update if you have pods install in your pc already.
